@@ -1,7 +1,3 @@
-# G87.2024.T20.GE3
-Guided Exercise 3
+# Hotel Manager Project
 
-Emily Chang 100531462 or emchang03  
-Cameron Katz 100531516  
-John Bettinger 100531510  
-Jacob Schorr 100531487
+A project to simulate how a hotel functions. The application works to store hotel reservations, receive guests upon check in, and check out guests when they leave. This project was done with pair programming and Agile methodologies. 
